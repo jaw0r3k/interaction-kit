@@ -1,5 +1,14 @@
 # interaction-kit
 
+## 0.2.3
+
+### Patch Changes
+
+- Updated dependencies [2d3e127]
+- Updated dependencies [e655233]
+  - discord-edge-runner@1.0.0
+  - discord-verify@1.0.2
+
 ## 0.2.2
 
 ### Patch Changes
